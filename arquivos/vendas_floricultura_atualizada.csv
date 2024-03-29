@@ -1,0 +1,81 @@
+Vendedor,Grupo,Produto,Preço Unitário (R$),Quantidade Vendida,Total Venda (R$),Comissão (R$),Peso do Produto (kg),Código do Comprador,Endereço do Comprador,Data da Compra
+Vendedor 1,Flores Naturais,Rosa,86.52,2,173.04,17.304,3.16,C047,"Rua 47, Cidade 47, Estado 47",2023-03-20
+Vendedor 2,Acessórios de Jardinagem,Vaso,97.67,5,488.35,48.83500000000001,3.22,C064,"Rua 64, Cidade 64, Estado 64",2023-12-13
+Vendedor 3,Acessórios de Jardinagem,Ferramentas de Jardinagem,15.6,1,15.6,1.56,4.44,C013,"Rua 13, Cidade 13, Estado 13",2023-09-10
+Vendedor 1,Flores Naturais,Lírio,49.22,17,836.74,83.674,1.53,C064,"Rua 64, Cidade 64, Estado 64",2023-02-14
+Vendedor 1,Flores Naturais,Rosa,22.97,19,436.42999999999995,43.643,1.95,C039,"Rua 39, Cidade 39, Estado 39",2023-03-10
+Vendedor 2,Flores Naturais,Rosa,13.46,10,134.60000000000002,13.460000000000003,0.62,C069,"Rua 69, Cidade 69, Estado 69",2023-12-14
+Vendedor 3,Flores Naturais,Orquídea,89.83,4,359.32,35.932,2.57,C003,"Rua 3, Cidade 3, Estado 3",2023-07-26
+Vendedor 2,Plantas Ornamentais,Suculenta,25.4,19,482.59999999999997,48.26,3.32,C069,"Rua 69, Cidade 69, Estado 69",2023-05-02
+Vendedor 2,Plantas Ornamentais,Ficus,44.64,9,401.76,40.176,2.46,C002,"Rua 2, Cidade 2, Estado 2",2023-06-25
+Vendedor 2,Plantas Ornamentais,Suculenta,22.53,17,383.01,38.301,1.87,C023,"Rua 23, Cidade 23, Estado 23",2023-11-07
+Vendedor 1,Acessórios de Jardinagem,Regador,54.5,2,109.0,10.9,4.41,C051,"Rua 51, Cidade 51, Estado 51",2023-11-30
+Vendedor 2,Flores Naturais,Girassol,27.94,14,391.16,39.11600000000001,1.06,C049,"Rua 49, Cidade 49, Estado 49",2023-12-13
+Vendedor 1,Flores Naturais,Orquídea,65.56,3,196.68,19.668000000000003,0.55,C035,"Rua 35, Cidade 35, Estado 35",2023-01-09
+Vendedor 3,Acessórios de Jardinagem,Regador,22.63,8,181.04,18.104,0.71,C017,"Rua 17, Cidade 17, Estado 17",2023-09-15
+Vendedor 2,Flores Naturais,Girassol,44.31,18,797.58,79.75800000000001,4.92,C003,"Rua 3, Cidade 3, Estado 3",2023-11-10
+Vendedor 3,Acessórios de Jardinagem,Vaso,59.77,19,1135.63,113.56300000000002,4.12,C038,"Rua 38, Cidade 38, Estado 38",2023-12-13
+Vendedor 2,Flores Naturais,Lírio,76.76,3,230.28000000000003,23.028000000000006,3.64,C047,"Rua 47, Cidade 47, Estado 47",2023-07-26
+Vendedor 2,Plantas Ornamentais,Suculenta,44.74,13,581.62,58.162000000000006,4.57,C030,"Rua 30, Cidade 30, Estado 30",2023-11-27
+Vendedor 1,Plantas Ornamentais,Bonsai,85.83,2,171.66,17.166,2.65,C046,"Rua 46, Cidade 46, Estado 46",2023-10-06
+Vendedor 2,Flores Naturais,Lírio,31.48,10,314.8,31.480000000000004,1.0,C005,"Rua 5, Cidade 5, Estado 5",2023-12-14
+Vendedor 2,Plantas Ornamentais,Ficus,57.03,11,627.33,62.733000000000004,1.43,C077,"Rua 77, Cidade 77, Estado 77",2023-05-08
+Vendedor 3,Flores Naturais,Lírio,5.78,15,86.7,8.67,3.59,C039,"Rua 39, Cidade 39, Estado 39",2023-01-25
+Vendedor 2,Acessórios de Jardinagem,Regador,44.8,4,179.2,17.919999999999998,1.38,C028,"Rua 28, Cidade 28, Estado 28",2023-02-23
+Vendedor 1,Flores Naturais,Rosa,44.39,10,443.9,44.39,2.51,C059,"Rua 59, Cidade 59, Estado 59",2023-05-13
+Vendedor 2,Flores Naturais,Rosa,22.31,5,111.55,11.155000000000001,4.14,C050,"Rua 50, Cidade 50, Estado 50",2023-05-26
+Vendedor 3,Plantas Ornamentais,Bonsai,36.68,11,403.48,40.348000000000006,4.56,C062,"Rua 62, Cidade 62, Estado 62",2023-04-25
+Vendedor 3,Flores Naturais,Girassol,71.95,8,575.6,57.56,2.62,C010,"Rua 10, Cidade 10, Estado 10",2023-06-22
+Vendedor 2,Plantas Ornamentais,Suculenta,48.94,6,293.64,29.364,3.63,C036,"Rua 36, Cidade 36, Estado 36",2023-09-04
+Vendedor 2,Flores Naturais,Lírio,8.08,15,121.2,12.120000000000001,1.09,C005,"Rua 5, Cidade 5, Estado 5",2023-11-05
+Vendedor 3,Plantas Ornamentais,Ficus,60.91,19,1157.29,115.729,0.64,C041,"Rua 41, Cidade 41, Estado 41",2023-12-18
+Vendedor 1,Acessórios de Jardinagem,Ferramentas de Jardinagem,47.57,15,713.55,71.355,1.35,C046,"Rua 46, Cidade 46, Estado 46",2023-02-10
+Vendedor 1,Acessórios de Jardinagem,Fertilizante,56.32,8,450.56,45.056000000000004,4.08,C047,"Rua 47, Cidade 47, Estado 47",2023-01-09
+Vendedor 3,Flores Naturais,Orquídea,50.87,10,508.7,50.870000000000005,1.13,C072,"Rua 72, Cidade 72, Estado 72",2023-07-09
+Vendedor 2,Flores Naturais,Girassol,13.23,11,145.53,14.553,3.69,C049,"Rua 49, Cidade 49, Estado 49",2023-02-28
+Vendedor 2,Plantas Ornamentais,Ficus,50.55,10,505.5,50.550000000000004,4.18,C066,"Rua 66, Cidade 66, Estado 66",2023-06-27
+Vendedor 3,Plantas Ornamentais,Ficus,76.3,6,457.79999999999995,45.78,3.6,C021,"Rua 21, Cidade 21, Estado 21",2023-07-17
+Vendedor 3,Flores Naturais,Orquídea,79.34,13,1031.42,103.14200000000001,4.79,C080,"Rua 80, Cidade 80, Estado 80",2023-06-24
+Vendedor 1,Plantas Ornamentais,Bonsai,41.19,18,741.42,74.142,2.62,C064,"Rua 64, Cidade 64, Estado 64",2023-11-30
+Vendedor 2,Acessórios de Jardinagem,Vaso,65.25,11,717.75,71.775,3.43,C062,"Rua 62, Cidade 62, Estado 62",2023-07-01
+Vendedor 1,Plantas Ornamentais,Bonsai,65.96,18,1187.28,118.72800000000001,0.77,C044,"Rua 44, Cidade 44, Estado 44",2023-07-27
+Vendedor 3,Plantas Ornamentais,Ficus,48.45,19,920.5500000000001,92.055,4.05,C039,"Rua 39, Cidade 39, Estado 39",2023-04-11
+Vendedor 2,Flores Naturais,Orquídea,48.26,14,675.64,67.56400000000001,1.04,C053,"Rua 53, Cidade 53, Estado 53",2023-01-24
+Vendedor 2,Acessórios de Jardinagem,Ferramentas de Jardinagem,90.64,9,815.76,81.57600000000001,2.43,C028,"Rua 28, Cidade 28, Estado 28",2023-08-10
+Vendedor 3,Acessórios de Jardinagem,Ferramentas de Jardinagem,79.82,2,159.64,15.963999999999999,1.43,C001,"Rua 1, Cidade 1, Estado 1",2023-01-25
+Vendedor 2,Acessórios de Jardinagem,Fertilizante,20.36,5,101.8,10.18,1.47,C074,"Rua 74, Cidade 74, Estado 74",2023-07-22
+Vendedor 2,Flores Naturais,Girassol,93.41,9,840.6899999999999,84.069,4.79,C016,"Rua 16, Cidade 16, Estado 16",2023-06-16
+Vendedor 2,Acessórios de Jardinagem,Vaso,48.1,6,288.6,28.860000000000003,0.27,C055,"Rua 55, Cidade 55, Estado 55",2023-02-10
+Vendedor 1,Flores Naturais,Rosa,87.55,15,1313.25,131.32500000000002,3.96,C053,"Rua 53, Cidade 53, Estado 53",2023-05-29
+Vendedor 3,Flores Naturais,Lírio,56.14,8,449.12,44.912000000000006,0.28,C074,"Rua 74, Cidade 74, Estado 74",2023-03-01
+Vendedor 3,Flores Naturais,Lírio,40.3,5,201.5,20.150000000000002,4.68,C014,"Rua 14, Cidade 14, Estado 14",2023-09-07
+Vendedor 3,Plantas Ornamentais,Ficus,8.66,18,155.88,15.588000000000001,3.44,C047,"Rua 47, Cidade 47, Estado 47",2023-02-06
+Vendedor 1,Flores Naturais,Orquídea,41.69,10,416.9,41.69,4.31,C001,"Rua 1, Cidade 1, Estado 1",2023-08-31
+Vendedor 3,Flores Naturais,Orquídea,21.23,15,318.45,31.845,0.29,C060,"Rua 60, Cidade 60, Estado 60",2023-01-02
+Vendedor 1,Flores Naturais,Lírio,99.02,15,1485.3,148.53,0.77,C016,"Rua 16, Cidade 16, Estado 16",2023-07-03
+Vendedor 3,Flores Naturais,Lírio,6.09,15,91.35,9.135,1.47,C034,"Rua 34, Cidade 34, Estado 34",2023-12-06
+Vendedor 1,Plantas Ornamentais,Palmeira,26.47,4,105.88,10.588000000000001,4.3,C001,"Rua 1, Cidade 1, Estado 1",2023-04-18
+Vendedor 1,Plantas Ornamentais,Suculenta,91.93,14,1287.02,128.702,1.63,C039,"Rua 39, Cidade 39, Estado 39",2023-05-06
+Vendedor 3,Acessórios de Jardinagem,Ferramentas de Jardinagem,43.78,18,788.04,78.804,0.32,C062,"Rua 62, Cidade 62, Estado 62",2023-08-06
+Vendedor 3,Plantas Ornamentais,Suculenta,18.01,8,144.08,14.408000000000001,0.63,C065,"Rua 65, Cidade 65, Estado 65",2023-04-12
+Vendedor 2,Acessórios de Jardinagem,Regador,41.6,15,624.0,62.400000000000006,1.46,C061,"Rua 61, Cidade 61, Estado 61",2023-10-23
+Vendedor 2,Plantas Ornamentais,Ficus,63.05,13,819.65,81.965,2.1,C053,"Rua 53, Cidade 53, Estado 53",2023-04-04
+Vendedor 2,Plantas Ornamentais,Suculenta,69.24,3,207.71999999999997,20.772,4.88,C071,"Rua 71, Cidade 71, Estado 71",2023-09-27
+Vendedor 1,Flores Naturais,Rosa,81.0,7,567.0,56.7,1.04,C058,"Rua 58, Cidade 58, Estado 58",2023-12-17
+Vendedor 2,Flores Naturais,Orquídea,17.26,15,258.90000000000003,25.890000000000004,2.87,C075,"Rua 75, Cidade 75, Estado 75",2023-05-04
+Vendedor 1,Plantas Ornamentais,Palmeira,37.98,14,531.7199999999999,53.172,1.33,C034,"Rua 34, Cidade 34, Estado 34",2023-07-07
+Vendedor 3,Flores Naturais,Rosa,99.56,13,1294.28,129.428,2.95,C060,"Rua 60, Cidade 60, Estado 60",2023-08-28
+Vendedor 2,Plantas Ornamentais,Ficus,98.1,14,1373.3999999999999,137.34,4.93,C034,"Rua 34, Cidade 34, Estado 34",2023-04-11
+Vendedor 1,Plantas Ornamentais,Suculenta,80.43,15,1206.45,120.64500000000001,2.02,C063,"Rua 63, Cidade 63, Estado 63",2023-08-03
+Vendedor 3,Plantas Ornamentais,Palmeira,41.87,5,209.35,20.935000000000002,2.1,C008,"Rua 8, Cidade 8, Estado 8",2023-01-27
+Vendedor 1,Acessórios de Jardinagem,Regador,71.39,14,999.46,99.94600000000001,4.54,C001,"Rua 1, Cidade 1, Estado 1",2023-03-20
+Vendedor 1,Plantas Ornamentais,Ficus,44.95,9,404.55,40.455000000000005,2.43,C001,"Rua 1, Cidade 1, Estado 1",2023-07-26
+Vendedor 1,Flores Naturais,Lírio,8.46,15,126.9,12.690000000000001,3.57,C063,"Rua 63, Cidade 63, Estado 63",2023-09-09
+Vendedor 2,Acessórios de Jardinagem,Regador,83.31,4,333.24,33.324000000000005,4.08,C037,"Rua 37, Cidade 37, Estado 37",2023-06-17
+Vendedor 2,Acessórios de Jardinagem,Ferramentas de Jardinagem,37.55,17,638.3499999999999,63.834999999999994,2.71,C025,"Rua 25, Cidade 25, Estado 25",2023-02-19
+Vendedor 1,Flores Naturais,Girassol,6.7,8,53.6,5.36,0.66,C054,"Rua 54, Cidade 54, Estado 54",2023-08-13
+Vendedor 3,Flores Naturais,Lírio,93.43,6,560.58,56.05800000000001,3.95,C041,"Rua 41, Cidade 41, Estado 41",2023-11-20
+Vendedor 2,Acessórios de Jardinagem,Fertilizante,9.52,5,47.599999999999994,4.76,4.66,C021,"Rua 21, Cidade 21, Estado 21",2023-02-11
+Vendedor 3,Plantas Ornamentais,Palmeira,9.09,13,118.17,11.817,0.19,C016,"Rua 16, Cidade 16, Estado 16",2023-02-12
+Vendedor 1,Acessórios de Jardinagem,Regador,8.11,5,40.55,4.055,2.51,C057,"Rua 57, Cidade 57, Estado 57",2023-10-07
+Vendedor 2,Acessórios de Jardinagem,Fertilizante,80.03,8,640.24,64.024,2.48,C066,"Rua 66, Cidade 66, Estado 66",2023-02-01
