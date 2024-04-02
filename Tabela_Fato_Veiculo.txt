@@ -1,0 +1,60 @@
+Imagine que você é o analista de dados de uma empresa de vendas de carros. Você atua com várias marcas de carros e também diversos modelos novos e usados.
+
+Escreva una tabela fato que apresente as vendas de veículos.
+Construa pelo menos 5 dimensões para esta fato vendas.
+
+-------------------------
+Tabela Fato: Vendas de Veículos
+
+Dimensões:
+
+Dimensão Data:
+
+	- Data_ID (PK)
+	- Data (Data da venda)
+	- Mês
+	- Ano
+	- Semana
+	- Dia semana
+
+Dimensão Vendedor:
+
+	- Vendedor_ID (PK)
+	- Nome do Vendedor
+	- Cargo
+	- Departamento
+	- Endereço
+	- Número de Contato
+	- Dimensão Cliente:
+
+Dimensão Cliente:
+
+	- Cliente_ID (PK)
+	- Nome do Cliente
+	- Tipo de Cliente (Pessoa Física/Jurídica)
+	- Endereço
+	- Número de Contato
+	- Email
+
+Dimensão Veículo:
+
+	- Veículo_ID (PK)
+	- Marca
+	- Modelo
+	- Ano de Fabricação
+	- Tipo (Novo/Usado)
+	- Cor
+	- Preço de Venda
+
+Dimensão Localização:
+
+	- Localização_ID (PK)
+	- País
+	- Estado
+	- Cidade
+	- CEP
+	- Bairro
+	- Latitude
+	- Longitude
+
+-------------------------
